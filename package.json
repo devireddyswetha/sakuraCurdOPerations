@@ -26,7 +26,7 @@
     "encodeurl": "^1.0.1",
     "express": "^4.15.2",
     "helmet": "^3.6.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "mongodb": "^2.2.26",
     "node-sass": "^4.5.3",
     "request": "^2.81.0",
